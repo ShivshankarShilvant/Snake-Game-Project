@@ -40,15 +40,4 @@ A simple browser-based Snake Game built using vanilla JavaScript, HTML, and CSS.
 - Arrow Left (`←`): Move left
 - Arrow Right (`→`): Move right
 
-## Demo
-
-![Snake Game Screenshot](https://user-images.githubusercontent.com/YourUserID/demo-image.png)
-> *(Add a screenshot here for extra polish!)*
-
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
 Feel free to fork, modify, and share!
